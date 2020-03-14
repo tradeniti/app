@@ -36,7 +36,7 @@ If you want to create a local HTML5 android app
 ## Rename The Application
 
 1. Open Menifests > AndroidManifest.xml
-2. Change Example App To Your App Name. `android:label="Example App'
+2. Change Example App To Your App Name. `android:label="Example App`
 
 Also change the name in Strings.xml
 
