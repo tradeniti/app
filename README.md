@@ -32,3 +32,8 @@ If you want to create a local HTML5 android app
 	```
 
 2. put all your files (including your `index.html`) in the `assets` directory
+
+## Rename The Application
+
+1. Open Menifest.xml
+2. Change Applabel
