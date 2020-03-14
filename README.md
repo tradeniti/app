@@ -41,5 +41,5 @@ If you want to create a local HTML5 android app
 Also change the name in Strings.xml
 
 1. Open Res > Strings.xml
-2. Change 'string name'
+2. Change `string name`
 
